@@ -1,5 +1,5 @@
 object helado {
-	var calidad = 9
+	var calidad = 8
 	var artesanal = true
 	
 	method esRico() = artesanal || calidad > 8
